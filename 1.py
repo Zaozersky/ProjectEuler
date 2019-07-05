@@ -1,8 +1,4 @@
 #!/usr/bin/python3
-#import os
-
-#path = input("file path:")
-
 try:
 	n = int(input("n:"))
 	s = 0

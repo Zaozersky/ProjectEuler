@@ -1,1 +1,1 @@
-Solutions challenging mathematical/computer programming problems.
+Solutions challenging mathematical / computer programming problems.

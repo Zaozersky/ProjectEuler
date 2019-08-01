@@ -19,11 +19,8 @@ def isPrime(n):
 
 	return ok
 
-
 n = int(input())
-
 m = int(math.sqrt(n))
-
 
 for i in range(2, m):
 	if (n % i == 0 and isPrime(i)):

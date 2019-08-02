@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-
 try:
 	n = int(input("n: "))
+	
 	first = 1
 	second = 2
 	s = 0

@@ -13,19 +13,16 @@ def isPrime(n):
 		if (n % i == 0):
 			ok = False
 			break
-
 	return ok
 
 s = 2
 i = 3
 
 while (True):
-
 		if (isPrime(i)):
 			if (i < 2000000):
 				s += i	
 			else:
 				break
 		i += 2
-
 print(s)
